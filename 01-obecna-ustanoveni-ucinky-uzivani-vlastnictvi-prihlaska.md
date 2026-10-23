@@ -470,6 +470,13 @@ Relativní důvody brání starším právům jen na návrh; rozhodující jsou 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1504/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6BBEF3507A86927C1258CA4004D3A48?openDocument) — 30. 4. 2025, kat. A
+  > „Sama skutečnost, že vlastník ochranné známky při uvádění výrobků (parfémů a kosmetických výrobků) označených ochrannou známkou, jejichž vlastnosti u zákazníků vyvolávají dojem luxusu, na trh prostřednictvím systému selektivní distribuce, jehož cílem je zachování dobrého jména (image) těchto výrobků, uzavírá (licenční) smlouvy opravňující k uvádění těchto výrobků na trh pouze s osobami, jež v posledních třech letech neporušily práva k jeho ochranné známce a zároveň provozují alespoň po dobu jednoho roku minimálně tři tzv. kamenné prodejny způsobilé pro prodej těchto výrobků, nepředstavuje nedovolené omezení hospodářské soutěže podle čl. 101 odst. 1 Smlouvy o fungování Evropské unie"
+- *NS* [23 Cdo 1612/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2DFAFA8EFC7FDDF9C1257DE1002181D7?openDocument) — 17. 12. 2014, kat. A
+  > „Je-li celním úřadem zboží v celním režimu vnější tranzit zadrženo s podezřením na porušení práva duševního vlastnictví, tíží důkazní břemeno k tvrzení, že zboží je určeno k uvedení na vnitřní trh členského státu Evropské unie, toho, kdo tvrdí, že jeho práva duševního vlastnictví jsou porušována"
+
 #### Pozitivní a negativní stránka práva (odst. 1 a 2)
 
 Odst. 1 zakotvuje výlučné právo užívat známku pro chráněné výrobky a služby, způsob jeho prokázání (výpis z rejstříku, osvědčení o zápisu) a oprávnění užívat značku ®. Užití ® u nezapsaného označení může být klamavé (nekalá soutěž, regulace reklamy). Jádrem je **zákazové právo** podle odst. 2, které kopíruje strukturu § 7 odst. 1 písm. a) až c): (a) dvojí shoda, (b) pravděpodobnost záměny vč. asociace, (c) rozšířená ochrana známky s dobrým jménem v ČR. Zásah předpokládá užívání **v obchodním styku** (hospodářská činnost směřující k prospěchu, nikoli soukromá sféra) a **bez souhlasu** vlastníka; výhrada „§ 10 až 11" odkazuje na omezení účinků.
@@ -619,6 +626,11 @@ Lhůta: **bezodkladně**; u tištěné podoby nejpozději při následujícím u
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3944/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0CEAD5F49D9BA76C125860C001F651E?openDocument) — 21. 7. 2020, kat. A
+  > „Pro vznik omezení účinků ochranné známky vůči uživateli nezapsaného označení podle § 10 odst. 2 zákona č. 441/2003 Sb., o ochranných známkách, je rozhodující okamžik podání přihlášky ochranné známky a nikoli uplatněné právo přednosti přihlášené ochranné známky na základě čl. 4 Pařížské úmluvy na ochranu průmyslového vlastnictví (vyhlášené vyhláškou ministra zahraničních věcí č. 64/1975 Sb. ve znění vyhlášky č. 81/1985 Sb.). Omezení účinků ochranné známky podle § 10 odst. 2 zákona o ochranných známkách může vzniknout vůči více uživatelům nezapsaného označení bez ohledu na vzájemný vztah těchto uživatelů, jsou-li u každého z nich v okamžiku podání přihlášky ochranné známky splněny podmínky stanovené v tomto ustanovení. Po vzniku omezení účinků ochranné známky podle § 10 odst. 2 zákona o ochranných známkách může dojít ke změně subjektu, jemuž svědčí toto omezení, pouze na základě takové…"
+
 #### Omezení účinků v zájmu poctivé soutěže (odst. 1)
 
 Odst. 1 vyjímá z dosahu zákazového práva tři typy užívání, a to pod společnou podmínkou, že užívání je **v souladu s obchodními zvyklostmi a zásadami poctivého obchodního styku**:
@@ -763,6 +775,13 @@ Zapsaná pozdější známka, kterou již nelze zneplatnit, je obranou proti zá
 > (2) Odstavec 1 se nepoužije, pokud vlastník ochranné známky má oprávněné důvody zakázat další uvádění výrobků na trh, zejména pokud došlo ke změně nebo zhoršení stavu výrobků poté, co byly uvedeny na trh.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1504/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6BBEF3507A86927C1258CA4004D3A48?openDocument) — 30. 4. 2025, kat. A
+  > „Sama skutečnost, že vlastník ochranné známky při uvádění výrobků (parfémů a kosmetických výrobků) označených ochrannou známkou, jejichž vlastnosti u zákazníků vyvolávají dojem luxusu, na trh prostřednictvím systému selektivní distribuce, jehož cílem je zachování dobrého jména (image) těchto výrobků, uzavírá (licenční) smlouvy opravňující k uvádění těchto výrobků na trh pouze s osobami, jež v posledních třech letech neporušily práva k jeho ochranné známce a zároveň provozují alespoň po dobu jednoho roku minimálně tři tzv. kamenné prodejny způsobilé pro prodej těchto výrobků, nepředstavuje nedovolené omezení hospodářské soutěže podle čl. 101 odst. 1 Smlouvy o fungování Evropské unie"
+- *NS* [23 Cdo 397/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A27692E98D084A7C1258668003F8D43?openDocument) — 30. 11. 2020, kat. A
+  > „Vlastník ochranné známky je oprávněn zakázat podle § 11 odst. 3 zákona o ochranných známkách (ve znění účinném do 31. 12. 2018) uvádění výrobku dovezeného z členského státu Evropské unie (popř. státu tvořícího Evropský hospodářský prostor), v němž byl tento výrobek uveden na trh vlastníkem ochranné známky či s jeho souhlasem, na trh v České republice s pozměněným obalem nesoucím ochrannou známku i tehdy, nesdělí-li dovozci v přiměřené lhůtě po oznámení záměru dovozce uvádět takový výrobek na trh v České republice (resp. po poskytnutí vzorku takového výrobku na vyžádání vlastníka ochranné známky) námitky proti tomuto záměru, pokud výkon práv vlastníka ochranné známky nepředstavuje zastřené omezení obchodu mezi členskými státy Evropské unie (popř. státy tvořícími Evropský hospodářský prostor). To nevylučuje výjimečné zamítnutí žaloby podané z tohoto důvodu pro zjevné zneužití práva ve…"
 
 #### Regionální (unijní) vyčerpání (odst. 1)
 
